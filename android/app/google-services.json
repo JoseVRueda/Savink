@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806542841181",
+    "project_id": "ahorros-gastos-o3vn3r",
+    "storage_bucket": "ahorros-gastos-o3vn3r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806542841181:android:cd2121d1cef4ca296244b4",
+        "android_client_info": {
+          "package_name": "com.uninorte.ahorrosgastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtQ4Gul-7drlPC56Ny4HJLfLE_4qgxag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
